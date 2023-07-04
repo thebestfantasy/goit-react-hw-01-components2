@@ -1,0 +1,31 @@
+.transactionTable {
+  width: 590px;
+  border: 1px solid black;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  table-layout: fixed;
+}
+
+.column {
+  width: 33%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  padding: 5px;
+  text-transform: capitalize;
+}
+
+.title {
+  background-color: aquamarine;
+  color: white;
+  text-transform: uppercase;
+}
+
+.evenRow {
+  background-color: white;
+}
+
+.oddRow {
+  background-color: bisque;
+}
