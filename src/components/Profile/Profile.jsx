@@ -7,7 +7,7 @@ import {
   Quantity,
   Social,
   Stats,
-} from 'C:Users\froncDesktopgoIT\reactgoit-react-hw-01-components2srccomponentsProfileProfile.styled.js';
+} from './Profile.styled';
 
 export const Profile = user => {
   const {
