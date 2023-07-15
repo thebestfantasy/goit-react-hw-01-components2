@@ -46,7 +46,7 @@ export const Profile = user => {
 };
 
 Profile.propTypes = {
-  username: PropTypes.string.isRequired,
+  username: PropTypes.string,
   tag: PropTypes.string.isRequired,
   location: PropTypes.string.isRequired,
   avatar: PropTypes.string.isRequired,
